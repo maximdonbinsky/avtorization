@@ -10,7 +10,7 @@
 body{
     position: relative;
     max-width: 100%;
-    overflow:hidden;
+/*     overflow:hidden; */
 }
 label{
     -webkit-touch-callout: none; 
