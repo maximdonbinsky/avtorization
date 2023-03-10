@@ -259,7 +259,7 @@ form{
     font-size: .8rem;
     transform: scale(0);
     transition: 0.7s;
-/*     margin-top: -145px; */
+    margin-top: -145px;
    
 }
 @media (max-width:415px) {
